@@ -1,0 +1,3 @@
+SUBSYSTEM=="usb", ATTR{bInterfaceClass}=="03", ATTR{bInterfaceProtocol}=="01", ACTION=="add", RUN+="/usr/sbin/insmod /home/root/keyboad_module/usb_kbd_detector.ko"
+SUBSYSTEM=="usb", ATTR{bInterfaceClass}=="03", ATTR{bInterfaceProtocol}=="01", ACTION=="remove", RUN+="/usr/sbin/rmmod usb_kbd_detector"
+

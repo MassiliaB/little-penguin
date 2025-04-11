@@ -1,5 +1,5 @@
 obj-m += main.o
-MODULE_DIR := /usr/src/linux-next 
+MODULE_DIR := /usr/src/linux
 PWD := $(shell pwd)
 
 default:

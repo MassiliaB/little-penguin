@@ -1,4 +1,4 @@
-[    0.000000] Linux version 6.15.0-rc1-next-20250408 (root@root) (gcc (GCC) 14.2.0, GNU ld (GNU Binutils) 2.44) #1 SMP PREEMPT_DYNAMIC Tue Apr  8 18:48:10 UTC 2025
+[    0.000000] Linux version 6.15.0-rc1-next-20250408 (root@login) (gcc (GCC) 14.2.0, GNU ld (GNU Binutils) 2.44) #1 SMP PREEMPT_DYNAMIC Tue Apr  8 18:48:10 UTC 2025
 [    0.000000] Command line: BOOT_IMAGE=/vmlinuz-6.15.0-rc1-next-20250408 root=/dev/sda4 ro
 [    0.000000] BIOS-provided physical RAM map:
 [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
